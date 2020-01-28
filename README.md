@@ -1,4 +1,4 @@
-# Alumno 1
+# Alumno 1 (Luis Vázquez Alejo)
 
 ## ORACLE
 
