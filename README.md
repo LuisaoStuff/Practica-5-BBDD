@@ -35,7 +35,7 @@ MAX(CHEC
 
 ```
 SQL> create tablespace ts1
-  2  datafile 'c:\app\Oracle\oradata\orcl\ts1.dbf'
+  2  datafile 'ts1.dbf'
   3  size 2M
   4  autoextend on;
 
